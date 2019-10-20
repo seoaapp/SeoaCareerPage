@@ -1,2 +1,2 @@
-# SeoaCareerPage
-Career infomation web page for seoaapp
+# Seoa Career
+Page for the recruitment of Seoa Team.
